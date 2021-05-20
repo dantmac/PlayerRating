@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17709" systemVersion="20D74" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Player" representedClassName="Player" syncable="YES" codeGenerationType="class">
+        <attribute name="lastGame" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="myChoice" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="photoData" optional="YES" attributeType="Binary" allowsExternalBinaryDataStorage="YES"/>
+        <attribute name="player" optional="YES" attributeType="String"/>
+        <attribute name="rating" optional="YES" attributeType="Double" minValueString="0" maxValueString="10" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="team" optional="YES" attributeType="String" defaultValueString=""/>
+        <attribute name="timesPlaying" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="tintColor" optional="YES" attributeType="Transformable" valueTransformerName="" allowsExternalBinaryDataStorage="YES"/>
+    </entity>
+    <elements>
+        <element name="Player" positionX="-63" positionY="-18" width="128" height="149"/>
+    </elements>
+</model>

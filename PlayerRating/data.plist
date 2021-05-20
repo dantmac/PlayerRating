@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>team</key>
+		<string>Washington Wizards</string>
+		<key>player</key>
+		<string>Russel Westbrook</string>
+		<key>timesPlaying</key>
+		<integer>65</integer>
+		<key>photoData</key>
+		<string>RusselWestbrook.png</string>
+		<key>lastGame</key>
+		<date>2021-05-16T02:30:00Z</date>
+		<key>tintColor</key>
+		<dict>
+			<key>red</key>
+			<integer>144</integer>
+			<key>blue</key>
+			<integer>32</integer>
+			<key>green</key>
+			<integer>0</integer>
+		</dict>
+		<key>myChoice</key>
+		<true/>
+		<key>rating</key>
+		<integer>5</integer>
+	</dict>
+	<dict>
+		<key>team</key>
+		<string>Los Angeles Lakers</string>
+		<key>player</key>
+		<string>LeBron James</string>
+		<key>timesPlaying</key>
+		<integer>45</integer>
+		<key>photoData</key>
+		<string>LeBronJames.png</string>
+		<key>lastGame</key>
+		<date>2021-05-17T01:00:00Z</date>
+		<key>tintColor</key>
+		<dict>
+			<key>red</key>
+			<integer>255</integer>
+			<key>blue</key>
+			<integer>0</integer>
+			<key>green</key>
+			<integer>212</integer>
+		</dict>
+		<key>myChoice</key>
+		<false/>
+		<key>rating</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>team</key>
+		<string>Brooklyn Nets</string>
+		<key>player</key>
+		<string>Kyrie Irving</string>
+		<key>timesPlaying</key>
+		<integer>54</integer>
+		<key>photoData</key>
+		<string>KyrieIrving.png</string>
+		<key>lastGame</key>
+		<date>2021-05-17T03:30:00Z</date>
+		<key>tintColor</key>
+		<dict>
+			<key>red</key>
+			<integer>128</integer>
+			<key>blue</key>
+			<integer>128</integer>
+			<key>green</key>
+			<integer>128</integer>
+		</dict>
+		<key>myChoice</key>
+		<false/>
+		<key>rating</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>team</key>
+		<string>Golden State Warriors</string>
+		<key>player</key>
+		<string>Stephen Curry</string>
+		<key>timesPlaying</key>
+		<integer>63</integer>
+		<key>photoData</key>
+		<string>StephCurry.png</string>
+		<key>lastGame</key>
+		<date>2021-05-16T04:00:00Z</date>
+		<key>tintColor</key>
+		<dict>
+			<key>red</key>
+			<integer>15</integer>
+			<key>blue</key>
+			<integer>129</integer>
+			<key>green</key>
+			<integer>76</integer>
+		</dict>
+		<key>myChoice</key>
+		<false/>
+		<key>rating</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>team</key>
+		<string>Milwaukee Bucks</string>
+		<key>player</key>
+		<string>Giannis Antetokounmpo</string>
+		<key>timesPlaying</key>
+		<integer>61</integer>
+		<key>photoData</key>
+		<string>GiannisAntetokounmpo.png</string>
+		<key>lastGame</key>
+		<date>2021-05-17T05:00:00Z</date>
+		<key>tintColor</key>
+		<dict>
+			<key>red</key>
+			<integer>23</integer>
+			<key>blue</key>
+			<integer>69</integer>
+			<key>green</key>
+			<integer>114</integer>
+		</dict>
+		<key>myChoice</key>
+		<false/>
+		<key>rating</key>
+		<integer>3</integer>
+	</dict>
+</array>
+</plist>
