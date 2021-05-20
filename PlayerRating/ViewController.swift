@@ -164,7 +164,6 @@ class ViewController: UIViewController {
             guard let playerInit = results.first else { return }
             player = playerInit
             insertDataFrom(selectedPlayer: playerInit)
-            
         } catch let error as NSError {
             print(error.localizedDescription)
         }
