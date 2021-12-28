@@ -213,6 +213,6 @@ class ViewController: UIViewController {
         updateSegmentedCtrl()
         getDataFromFile()
         viewConfigurations()
+        first()
     }
 }
-
